@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="healthy">#00FF0D</color>
+    <color name="underweight">#FDD835</color>
+    <color name="overweight">#EB7C1D</color>
+    <color name="obese">#FF0202</color>
+    <color name="rbbutton">#D81B60</color>
+</resources>
